@@ -1,0 +1,11 @@
+Classification Report - Random Forest
+==================================================
+                precision    recall  f1-score   support
+
+  Fatal injury       0.00      0.00      0.00        32
+Serious Injury       0.19      0.03      0.05       347
+ Slight Injury       0.84      0.98      0.91      2007
+
+      accuracy                           0.83      2386
+     macro avg       0.34      0.34      0.32      2386
+  weighted avg       0.74      0.83      0.77      2386

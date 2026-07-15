@@ -1,0 +1,11 @@
+Classification Report - Logistic Regression
+==================================================
+                precision    recall  f1-score   support
+
+  Fatal injury       0.03      0.62      0.06        32
+Serious Injury       0.18      0.38      0.25       347
+ Slight Injury       0.87      0.44      0.59      2007
+
+      accuracy                           0.44      2386
+     macro avg       0.36      0.48      0.30      2386
+  weighted avg       0.76      0.44      0.53      2386

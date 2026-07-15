@@ -1,0 +1,2 @@
+Best model: Random Forest
+Selection criterion: highest weighted F1-score

@@ -1,0 +1,11 @@
+Classification Report - Decision Tree
+==================================================
+                precision    recall  f1-score   support
+
+  Fatal injury       0.04      0.06      0.05        32
+Serious Injury       0.13      0.16      0.14       347
+ Slight Injury       0.84      0.80      0.82      2007
+
+      accuracy                           0.70      2386
+     macro avg       0.34      0.34      0.34      2386
+  weighted avg       0.72      0.70      0.71      2386
